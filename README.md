@@ -1,4 +1,4 @@
-### Yo sup, I am JC! 👋
+## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Yo sup, I am JC! 
 
 - 🎓 I’m currently a final year mechanical engineering undergraduate student (specialised in robotics & mechatronics).
 - 🤖 I’m currently working as a part-time robotics software engineer in Globotix.
