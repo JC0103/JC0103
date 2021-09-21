@@ -1,9 +1,9 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Yo sup, I am JC! 
 
-- 🎓 I’m currently a final year mechanical engineering undergraduate student (specialised in robotics & mechatronics).
-- 🤖 I’m currently working as a part-time robotics software engineer in Globotix.
-- 🏎️ I’m currently working on F1Tenth (Autonomous Car Racing Compeititon) and Final Year Project (Partial Point Cloud Registration).
-- 💼 I’m currently a freelance mechanical CAD designer. My team profile: [Fiverr - CADster](https://www.fiverr.com/cadsterteam)
+- 🎓 I’m currently a final year mechanical engineering undergraduate student (specialised in robotics & mechatronics),
+- 🤖 working as a part-time robotics software engineer in Globotix,
+- 🏎️ working on F1Tenth (Autonomous Car Racing Compeititon) and my Final Year Project (Partial Point Cloud Registration).
+- 💼 I’m a freelance mechanical CAD designer. My team profile: [Fiverr - CADster](https://www.fiverr.com/cadsterteam)
 - 🌱 I’m currently learning computer vision, SLAM and robot kinematics.
 - 💻 I’m looking full-time role as robotics software engineer / autonomous vehicle engineer.
 - 💬 Ask me about robotics related stuff.
