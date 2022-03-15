@@ -3,7 +3,6 @@
 - 🎓 I’m currently a final year mechanical engineering undergraduate student (specialised in robotics & mechatronics),
 - 🤖 working as a part-time autonomous vehicle software intern in Venti Technologies,
 - 🏎️ working on F1Tenth (Autonomous Car Racing Compeititon) and my Final Year Project (Partial Point Cloud Registration).
-- 💼 I’m a freelance mechanical CAD designer. My team profile: [Fiverr - CADster](https://www.fiverr.com/cadsterteam)
 - 🌱 I’m currently learning machine learning, computer vision and SLAM.
 - 💻 I’m looking full-time role as robotics software engineer / autonomous vehicle engineer.
 - 💬 Ask me about robotics related stuff.
