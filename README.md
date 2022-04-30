@@ -4,7 +4,6 @@
 - 🤖 working as a part-time autonomous vehicle software intern in Venti Technologies,
 - 🏎️ working on F1Tenth (Autonomous Car Racing Compeititon) and my Final Year Project (Partial Point Cloud Registration).
 - 🌱 I’m currently learning machine learning, computer vision and SLAM.
-- 💻 I’m looking full-time role as robotics software engineer / autonomous vehicle engineer.
 - 💬 Ask me about robotics related stuff.
 - 📫 How to reach me: [LinkedIn - JC Chia](https://www.linkedin.com/in/jc-chia-275316189/)
 - 😄 Pronouns: He/His
