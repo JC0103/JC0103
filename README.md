@@ -1,8 +1,7 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Yo sup, I am JC! 
 
 - 🎓 I’m currently a final year mechanical engineering undergraduate student (specialised in robotics & mechatronics),
-- 🤖 working as a part-time autonomous vehicle software intern in Venti Technologies,
-- 🏎️ working on F1Tenth (Autonomous Car Racing Compeititon) and my Final Year Project (Partial Point Cloud Registration).
+- 🤖 working as a vehicle control software engineer at ST Engineering Autonomous Solutions,
 - 🌱 I’m currently learning machine learning, computer vision and SLAM.
 - 💬 Ask me about robotics related stuff.
 - 📫 How to reach me: [LinkedIn - JC Chia](https://www.linkedin.com/in/jc-chia-275316189/)
